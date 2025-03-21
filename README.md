@@ -41,7 +41,6 @@
 <ul>
 
 <li>
-<a href="https://discord.com/users/1351317359327055985" target="_blank">
 <img src="https://img.shields.io/badge/Discord: @joaumdev-%235865F2.svg?&logo=discord&logoColor=white" alt=discord style="margin-bottom: -5px;"/>
 </a>
 </li>
