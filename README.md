@@ -5,7 +5,7 @@
 	
 ## **About me:**
 
-- I'm João, a Full-stack Developer and Entrepreneur.
+- I'm João, a Full-Stack Developer and Entrepreneur.
 - [Personal website](https://joaum.dev)
 
 <br>
